@@ -1,0 +1,3 @@
+[submodule "ptl"]
+	path = ptl
+	url = git@github.com:miguelmkn/sbpruebatecnica.git
